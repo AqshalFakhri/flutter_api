@@ -1,16 +1,17 @@
-# flutter_api
+# Nama:AqshalFakhri Eka Surya Saputra NIM:362358302071 Kelas:2A TRPL
 
-A new Flutter project.
+# Tugas Praktikum 
+**Maksud dari Praktikum Flutter API**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Pada praktikum kali ini saya menggunakan API untuk diimplementasikan pada project flutter. API yang saya gunakan adalah API untuk cuaca.
 
-A few resources to get you started if this is your first Flutter project:
+**HASIL**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2024-12-23 181300](https://github.com/user-attachments/assets/0abcb465-aa69-432e-b104-39a48e3d175c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sesuai dengan instruksi pada tugas praktikum pada halaman pertama ini saya menampilkan button untuk searching dan beberapa contoh cuaca yang ada di Banyuwangi.
+
+![Screenshot 2024-12-23 181326](https://github.com/user-attachments/assets/8e1c4314-8014-41bb-822a-3bd2e6764b9a)
+
+Jika sudah melakukan searching untuk kota yang ingin dilihat cuacanya, maka akan ditampilkan melalui pemanggilan terhadap API cuaca tersebut.
